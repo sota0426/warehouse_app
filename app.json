@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Rice Warehouse UI",
+    "slug": "rice-warehouse-ui",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}

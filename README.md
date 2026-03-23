@@ -1,6 +1,6 @@
 # Rice Warehouse UI Mock
 
-`rice_warehouse_requirements.md` をもとに、処理未接続の React Native UI モックを用意しています。
+`rice_warehouse_requirements.md` をもとに、TypeScript + NativeWind で処理未接続の React Native UI モックを用意しています。
 
 ## 起動
 
@@ -24,3 +24,5 @@
 - 画面遷移は簡易タブ切替です
 - API・DB・業務ロジックは未実装です
 - ダミーデータでレイアウト確認できる状態です
+- `nativewind` の設定として `global.css` `tailwind.config.js` `metro.config.js` を追加しています
+- CSVインポート用テンプレートは `templates/` 配下に配置しています
